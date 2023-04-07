@@ -23,7 +23,6 @@ Yanuar : Membuat Codingan, Menyiapkan Perlengkapan, Membuat File Pengumpulan
 Patricia : Board Schematic, Menyusun Rangkaian, Meralat Codingan
 
 Komponen yang digunakan :
-
 - ESP8266
 - Sensor Ultrasonic (HC-SR04)
 - LED
