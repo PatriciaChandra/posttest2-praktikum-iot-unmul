@@ -19,7 +19,9 @@ mobil yang ada. Protokol yang digunakan yaitu Protokol MQTT (Message Queuing Tel
 
 
 Pembagian Tugas
+
 Yanuar : Membuat Codingan, Menyiapkan Perlengkapan, Membuat File Pengumpulan
+
 Patricia : Board Schematic, Menyusun Rangkaian, Meralat Codingan
 
 Komponen yang digunakan :
