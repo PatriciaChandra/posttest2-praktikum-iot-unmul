@@ -12,7 +12,7 @@ Sistem Smart Car Park ini menggunakan Sensor Ultrasonik dan Buzzer yang dapat
 mendeteksi jarak aman kendaraan saat parkir bila sudah pada batas jarak.
 
 Metode IoT :
-   Cara kerjanya, ketika mobil mendekati sensor yang sudah tersedia, buzzer akan berbunyi dan led akan menyala. Sebaliknya, ketiks
+   Cara kerjanya, ketika mobil mendekati sensor yang sudah tersedia, buzzer akan berbunyi dan led akan menyala. Sebaliknya, ketika
 mobil menjauh dari sensor tersebut maka buzzer akan berhenti berbunyi dan led akan kembali mati atau non aktif.
   Informasi tersebut dapat dimonitor melalui platform thinger.io, disana akan ditamplkan data berupa jarak sensor dari
 mobil yang ada. Protokol yang digunakan yaitu Protokol MQTT (Message Queuing Telemetry Transport).
