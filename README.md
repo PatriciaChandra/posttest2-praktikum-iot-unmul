@@ -1,13 +1,15 @@
 # posttest2-praktikum-iot-unmul
 
 NAMA & NIM
+
 Yanuar Satria Gotama / 2009106013
+
 Patricia Chandra / 2009106030
 
-Judul Studi Kasus
+Judul Studi Kasus :
 Smart Car Park (Sensor Ultrasonik) Menggunakan Platform Thinger.io
 
-Deeskripsi
+Deeskripsi :
 Sistem Smart Car Park ini menggunakan Sensor Ultrasonik dan Buzzer yang dapat 
 mendeteksi jarak aman kendaraan saat parkir bila sudah pada batas jarak.
 
